@@ -1,8 +1,8 @@
-import React from 'react';
-import DefaultLayout from '../../templates/default-layaut/DefaultLayaut'; 
+import React from "react";
+import DefaultLayout from "../../templates/default-layout/DefaultLayout";
 
 export const Home = () => {
-return <DefaultLayout />;
+  return <DefaultLayout />;
 };
 
 export default Home;
