@@ -1,7 +1,7 @@
 # pokedex hecho con React
 
 
-**Versión:** 0.1
+**Versión:** 0.2
 
 una pokedex creada con la libreria react, para consumir la Api de Pokemon [pokeAPI](https://pokeapi.co/).
 
